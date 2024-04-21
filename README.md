@@ -1,7 +1,7 @@
 ## Olá, Mundo! Sou Lucas Silva, estudante de programação e tecnologia!
 
 
-- 👨‍💻 Téc. em Desenvolvimento de Sistemas
+- 👨‍💻 Técnico em Desenvolvimento de Sistemas
 - 📚 Acadêmico em Licenciatura em Computação
 
 <div style="display: inline_block"><br>
